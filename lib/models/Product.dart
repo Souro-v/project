@@ -65,6 +65,61 @@ List<Product> products = [
     image: "assets/images/bag_6.png",
     color: const Color(0xFFAEAEAE),
   ),
+  Product(
+    id: 7,
+    title: "Office Code",
+    price: 234,
+    size: 12,
+    description: dummyText,
+    image: "assets/images/bag_6.png",
+    color: const Color(0xFFAEAEAE),
+  ),
+  Product(
+    id: 8,
+    title: "Office Code",
+    price: 234,
+    size: 12,
+    description: dummyText,
+    image: "assets/images/bag_6.png",
+    color: const Color(0xFFAEAEAE),
+  ),
+  Product(
+    id: 9,
+    title: "Office Code",
+    price: 234,
+    size: 12,
+    description: dummyText,
+    image: "assets/images/bag_6.png",
+    color: const Color(0xFFAEAEAE),
+  ),
+  Product(
+    id: 10,
+    title: "Office Code",
+    price: 234,
+    size: 12,
+    description: dummyText,
+    image: "assets/images/bag_6.png",
+    color: const Color(0xFFAEAEAE),
+  ), Product(
+    id: 11,
+    title: "Office Code",
+    price: 234,
+    size: 12,
+    description: dummyText,
+    image: "assets/images/bag_6.png",
+    color: const Color(0xFFAEAEAE),
+  ), Product(
+    id: 12,
+    title: "Office Code",
+    price: 234,
+    size: 12,
+    description: dummyText,
+    image: "assets/images/bag_6.png",
+    color: const Color(0xFFAEAEAE),
+  ),
+
+
+
 ];
 
 String dummyText =
